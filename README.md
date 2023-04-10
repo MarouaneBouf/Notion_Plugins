@@ -1,3 +1,4 @@
+![Notion1](https://user-images.githubusercontent.com/104838272/230897522-4285a699-e0da-42bd-860f-f406e2d40735.png)
 # Awesome Project
 
 Welcome to my awesome project! This repo contains all the code for my latest project that I'm excited to share with the world. Using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), I've created a powerful tool that will help you become more productive and organized.
